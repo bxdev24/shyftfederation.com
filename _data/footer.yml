@@ -1,0 +1,18 @@
+- title: Explore
+  links:
+    - name: Home
+      link: /
+    - name: Federation
+      link: /federation/
+    - name: Network
+      link: /network/
+    - name: Blog
+      link: /blog/
+    - name: Press
+      link: /press/
+- title: Social
+  links:
+    - name: Medium
+      link: http://facebook.com/cloudcannon/
+      social_icon: Medium
+      new_window: true
